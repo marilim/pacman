@@ -30,6 +30,12 @@
         
         this.score=0;
         this.scoreText='';
+        
+        this.bonus=0;
+        this.bonusText='';
+	    
+	    this.lives=3;
+	    this.livesText='';
 
         this.map = null;
         this.layer = null;
@@ -232,7 +238,7 @@
 
         eatDot: function (pacman, dot) {
 
-            var audio = new Audio('pacman dot.mp3');
+            var audio = new Audio('untitled.mp3');
             audio.play()
             
             this.score+=10;
