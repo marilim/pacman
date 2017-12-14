@@ -27,6 +27,9 @@
     var game = new Phaser.Game(448, 496, Phaser.AUTO);
 
     var Pacman = function (game) {
+        
+        this.score=0;
+        this.scoreText='';
 
         this.map = null;
         this.layer = null;
@@ -231,7 +234,7 @@
 
             dot.kill();        
             
-            var audio = new Audio('assets/pacman dot.mp3);
+            var audio = new Audio ('assets/pacman dot.mp3);
             audio.play()
             
             
