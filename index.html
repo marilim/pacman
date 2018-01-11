@@ -254,7 +254,10 @@
             this.scoreText.text= 'Score: ' + this.score;            
             
             dot.kill();
-	
+		
+     var audio = new Audio('assets/dot3');
+           audio.play();
+		
 		if(this.score%500===0){
 			this.lives++;
 			 this.livesText.text = 'Lives ' + this.lives;
@@ -269,6 +272,10 @@
         
         eatDot2: function (pacman, dot2) {
            dot2.kill();
+		
+     var audio = new Audio('assets/Apple.mp3');
+           audio.play();
+		
   	   this.score+=50;
 	   this.bonus+=50;															//____________________________6/4_____score____________________________
            this.scoreText.text= 'Score: ' + this.score;
