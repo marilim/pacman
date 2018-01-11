@@ -257,6 +257,7 @@
 	
 		if(this.score%500===0){
 			this.lives++;
+			 this.livesText.text = 'Lives ' + this.lives;
 		}
             if (this.dots.total === 0)
             {
@@ -274,6 +275,7 @@
 	   this.bonusText.text= 'Bonus: ' + this.bonus;
 		if(this.score%500===0){
 			this.lives++;
+			 this.livesText.text = 'Lives ' + this.lives;
 		}
 		if (this.dots.total === 0)
            {
