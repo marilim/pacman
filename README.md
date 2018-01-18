@@ -16,7 +16,7 @@
 - Δεν έχω βάλει κάποιον εχθρό στο παιχνίδι μου αλλά εχω βάλει το score ανά 300 να παίρνει ο χαρακτήρας μου μια ζωή.
 
 Παραδοτέο 4
--Tο link του repository μου: https://marilim.github.io/pacman/
+-Tο link του repository μου: https://marilim.github.io/pacman
 -Το link της εφαρμογής:  https://marilim.github.io/pacman/
 
 Εργαλεία :
