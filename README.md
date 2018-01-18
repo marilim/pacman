@@ -1,19 +1,29 @@
-# Pacman
+Θέμα εργασίας: Pacman
+Ονοματεπώνυμο: Συντζιρμά Μαρία- Ελευθερία
+ΑΜ: Π2013071
 
-## Initial Settings
-- Από την στιγμή που έχεις κάνει αντιγραφή (fork) το [αποθετήριο](https://github.com/ioniodi/pacman) του παιχνιδιού, θα πρέπει να έχει κατέβει στο προσωπικό σου github αποθετήριο ο [κώδικας του παιχνιδιού](index.html) και ο φάκελος [assets](/assets/) με τα αντικείμενα (πίστες, εικόνες) που θα χρησιμοποιήσεις στο παιχνίδι σου.
+Παραδοτέο 1
+-Επιλογή θέμα εργασίας: pacman
 
-- Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository και *άλλαξε το λινκ στην κορυφή του αποθετηρίου σου ώστε να δείχνει στην σελίδα του παιχνιδιού σου.*
-![ScreenShot](1.png)
+Παραδοτέο 2
+-Δημιούργησα μια νέα πίστα για το παιχνίδι χρησιμοποιώντας το Tiled.Κράτησα το ίδιο tileset απλά πρόθεσα το apple για bonus.
+-Άλλαξα την εμφάνιση του Pacman χρησιμοποιώντας έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού απο το google image png το boy.
+-Όταν μαζεύει τα apple υπάρχει ένας ήχος που ακούγεται αντίστοιχα.
+-Υπάρχει μια μουσική να ακούγεται την ώρα που εκτελείται το παιχνίδι η οποία είναι του ROBBIE WILLIAMS - Me and my Monkey
+-Τα score ,bonus και lives μετριούνται πάνω στο παιχνίδι.
 
-- Στο [index.html](index.html) άλλαξε το ioniodi με το δικό σου username.
-![ScreenShot](2.png)
+Παραδοτέο 3
+- Δεν έχω βάλει κάποιον εχθρό στο παιχνίδι μου αλλά εχω βάλει το score ανά 300 να παίρνει ο χαρακτήρας μου μια ζωή.
 
-## Notes
-- Στην περίπτωση που κάποιος θέλει εναλλακτικά να τρέξει το παιχνίδι **τοπικά** μπορεί να ακολουθήσει τις οδηγίες από το [επίσημο site](http://phaser.io/tutorials/getting-started/index). Προτεινόμενος local web server: [xampp](https://www.apachefriends.org/index.html). Editor μπορείτε να βρείτε από [εδώ](http://phaser.io/tutorials/getting-started/part4) ή να χρησιμοποιήσετε το [eclipse](http://www.eclipse.org/) ακολουθώντας τις οδηγίες που δίνονται [εδώ](http://www.html5gamedevs.com/topic/22688-setting-up-eclipse-to-work-with-phaser-how-to/). **Προσοχή:** Για να βαθμολογηθεί το παιχνίδι πρέπει να βρίσκεται υποχρεωτικά στην προσωπική σας github page. 
+Παραδοτέο 4
+-Tο link του repository μου: https://marilim.github.io/pacman/
+-Το link της εφαρμογής:  https://marilim.github.io/pacman/
 
-## Resources
-- [Phaser Tutorial](http://phaser.io/learn)
-- [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
-- [Phaser Examples](http://phaser.io/examples)
-- [Javascript tutorial](http://www.w3schools.com/js/)
+Εργαλεία :
+-Μέσω του Tiled ολοκρήρωσα την δικιά μου πίστα. 
+-Την μουσική και τους ήχους τα βρήκα απο το https://www.youtube.com/ 
+-Τις εικόνες και τους χαρακτήρες τις επεξεργάστηκα στο https://www194.lunapic.com/editor/ (μέγεθος, χρώμα,..) 
+-Τους ήχους(εφέ), μουσική τα επεξεργάστηκα στο https://mp3cut.net/
+
+Συμπεράσματα: 
+- Από την εργασία που μας ζητήθηκε ειναι εύκολο να καταλαβαίνεις την λειτουργία του github.
